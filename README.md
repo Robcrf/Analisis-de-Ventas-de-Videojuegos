@@ -1,46 +1,46 @@
-# Análisis de Ventas de Videojuegos 🎮
+# Video Game Sales Analysis 🎮
 
-Este proyecto realiza un análisis exhaustivo de un conjunto de datos sobre ventas de videojuegos para identificar patrones que determinan el éxito de un juego. El objetivo es proporcionar información valiosa para planificar campañas publicitarias y detectar proyectos prometedores para el año 2017.
-
----
-
-## 🎯 Objetivos del Proyecto
-
--   **🧹 Limpieza y Preparación de Datos:** Procesar y limpiar los datos para asegurar su calidad y consistencia.
--   **📊 Análisis Exploratorio (EDA):** Investigar la evolución de las ventas, el ciclo de vida de las plataformas y la popularidad de los géneros.
--   **🌍 Perfilado de Usuario por Región:** Identificar las preferencias de los consumidores en Norteamérica, Europa y Japón.
--   **🔬 Pruebas de Hipótesis:** Validar estadísticamente las diferencias en las calificaciones de usuarios entre diferentes plataformas y géneros.
+This project provides a comprehensive analysis of a video game sales dataset to identify patterns that determine a game's success. The goal is to provide valuable insights for planning advertising campaigns and detecting promising titles for the year 2017.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🎯 Project Objectives
+
+-   **🧹 Data Cleaning and Preparation:** Process and clean the data to ensure its quality and consistency.
+-   **📊 Exploratory Data Analysis (EDA):** Investigate sales evolution, platform lifecycles, and genre popularity.
+-   **🌍 User Profiling by Region:** Identify consumer preferences in North America, Europe, and Japan.
+-   **🔬 Hypothesis Testing:** Statistically validate differences in user ratings across different platforms and genres.
+
+---
+
+## 🛠️ Technologies Used
 
 -   **Python 3**
--   **Pandas:** Para la manipulación y análisis de datos.
--   **Matplotlib & Seaborn:** Para la visualización de datos.
--   **NumPy:** Para operaciones numéricas.
--   **SciPy:** Para realizar pruebas estadísticas.
--   **Jupyter Notebook:** Como entorno de trabajo interactivo.
+-   **Pandas:** For data manipulation and analysis.
+-   **Matplotlib & Seaborn:** For data visualization.
+-   **NumPy:** For numerical operations.
+-   **SciPy:** For statistical testing.
+-   **Jupyter Notebook:** As an interactive work environment.
 
 ---
 
-## 🚀 Cómo Empezar
+## 🚀 Getting Started
 
-1.  Clona este repositorio:
+1.  Clone this repository:
     ```bash
     git clone https://github.com/Robcrf/Analisis-de-Ventas-de-Videojuegos.git
     ```
-2.  Navega al directorio del proyecto:
+2.  Navigate to the project directory:
     ```bash
     cd Analisis-de-Ventas-de-Videojuegos
     ```
-3.  Abre el notebook `Video_Game_Sales_Analysis_Portfolio.ipynb` en Jupyter o VS Code para ver el análisis completo.
+3.  Open the `Video_Game_Sales_Analysis_Portfolio.ipynb` notebook in Jupyter or VS Code to see the full analysis.
 
 ---
 
-## 📈 Hallazgos Clave
+## 📈 Key Findings
 
--   Las plataformas **PS4 y Xbox One** son las más rentables y relevantes para el mercado de 2017.
--   Los géneros de **Acción, Shooter y Deportes** dominan las ventas en Occidente, mientras que el **RPG** es el rey en Japón.
--   Las **calificaciones de los críticos** tienen una correlación positiva con las ventas, a diferencia de las calificaciones de los usuarios.
--   Existen **diferencias culturales significativas** en las preferencias de juego entre Japón y los mercados occidentales.
+-   **PS4 and Xbox One** are the most profitable and relevant platforms for the 2017 market.
+-   **Action, Shooter, and Sports** genres dominate sales in the West, while **RPG** is king in Japan.
+-   **Critic scores** have a positive correlation with sales, unlike user scores.
+-   There are **significant cultural differences** in gaming preferences between Japan and Western markets.
